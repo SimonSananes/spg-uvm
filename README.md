@@ -46,3 +46,24 @@ The default training and dual-evaluation settings can be computationally demandi
 The reported primal confidence intervals quantify Monte Carlo sampling uncertainty. The dual evaluations rely on a finite-grid, finite-sweep pathwise optimization and **are not certified upper bounds**. Their error bars do not account for optimization or discretization bias.
 
 The notebook is an illustrative implementation of the method, not a claim that every numerical experiment in the paper can be reproduced from this single file.
+
+## Citation
+
+If you use this code in your research, please cite the associated
+paper:
+
+Abbas-Turki et al., *Stochastic Policy Gradient Methods in the
+Uncertain Volatility Model*, arXiv:2605.06670 (2026).
+
+Citation information is also available in
+[CITATION.cff](CITATION.cff).
+
+
+Citation information is also available in
+[CITATION.cff](CITATION.cff).
+
+## License
+
+This code is distributed under the BSD 3-Clause License.
+See the [LICENSE](LICENSE) file for details.
+
