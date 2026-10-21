@@ -58,10 +58,6 @@ Uncertain Volatility Model*, arXiv:2605.06670 (2026).
 Citation information is also available in
 [CITATION.cff](CITATION.cff).
 
-
-Citation information is also available in
-[CITATION.cff](CITATION.cff).
-
 ## License
 
 This code is distributed under the BSD 3-Clause License.
