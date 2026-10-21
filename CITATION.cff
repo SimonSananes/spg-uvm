@@ -1,0 +1,33 @@
+
+cff-version: 1.2.0
+
+message: "If you use this code in your research, please cite the associated paper."
+
+title: "Stochastic Policy Gradient Methods in the Uncertain Volatility Model - Companion Code"
+
+type: software
+
+authors:
+  - family-names: Sananes
+    given-names: Simon
+
+repository-code: "https://github.com/SimonSananes/spg-uvm"
+
+license: BSD-3-Clause
+
+preferred-citation:
+  type: article
+  title: "Stochastic Policy Gradient Methods in the Uncertain Volatility Model"
+  authors:
+    - family-names: Abbas-Turki
+      given-names: "Lokman A."
+    - family-names: Chassagneux
+      given-names: Jean-François
+    - family-names: Lemor
+      given-names: Jean-Philippe
+    - family-names: Loeper
+      given-names: Grégoire
+    - family-names: Sananes
+      given-names: Simon
+  year: 2026
+  url: "https://arxiv.org/abs/2605.06670"
